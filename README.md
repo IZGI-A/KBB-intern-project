@@ -1,8 +1,8 @@
 # KBB-intern-project
 You can reach the videos of the website via https://drive.google.com/drive/folders/1uXJKbR8iDzFjsrRQkmbDNfCr1dQ712wq?usp=sharing 
+<img width="1440" alt="Ekran Resmi 2022-11-04 22 44 56" src="https://github.com/IZGI-A/KBB-intern-project/assets/126882912/f6218f4f-86c8-4283-8631-8da9e1716a0b">
 <img width="1440" alt="Ekran Resmi 2022-11-04 23 02 12" src="https://github.com/IZGI-A/KBB-intern-project/assets/126882912/9a27bd1e-50f4-4c18-afbf-d5781e67e1f1">
 <img width="1440" alt="Ekran Resmi 2022-11-04 23 02 25" src="https://github.com/IZGI-A/KBB-intern-project/assets/126882912/9236b860-2ae8-4329-ad04-e514ba1f6707">
-<img width="1440" alt="Ekran Resmi 2022-11-04 22 46 27" src="https://github.com/IZGI-A/KBB-intern-project/assets/126882912/542e9a
 <img width="1440" alt="Ekran Resmi 2022-11-04 23 02 21" src="https://github.com/IZGI-A/KBB-intern-project/assets/126882912/6ce9971c-4b14-4658-a3a2-c4072e37fd25">
 <img width="1440" alt="Ekran Resmi 2022-11-04 23 02 16" src="https://github.com/IZGI-A/KBB-intern-project/assets/126882912/f9b7e170-84fa-4927-a19e-82bf8df1a8b4">
 <img width="1440" alt="Ekran Resmi 2022-11-04 22 59 09" src="https://github.com/IZGI-A/KBB-intern-project/assets/126882912/b49533dd-b6f0-495c-84ef-8b83555e18e9">
@@ -38,7 +38,6 @@ You can reach the videos of the website via https://drive.google.com/drive/folde
 <img width="1440" alt="Ekran Resmi 2022-11-04 22 54 53" src="https://github.com/IZGI-A/KBB-intern-project/assets/126882912/607621f8-7581-4784-82a7-a17a913d03f6">
 <img width="1440" alt="Ekran Resmi 2022-11-04 22 47 46" src="https://github.com/IZGI-A/KBB-intern-project/assets/126882912/92ff7d75-3974-492c-a147-64ffd8fa89e4">
 <img width="1440" alt="Ekran Resmi 2022-11-04 22 50 38" src="https://github.com/IZGI-A/KBB-intern-project/assets/126882912/ff0d3b29-7d5e-4b4e-ac18-10d0ff618e11">
-<img width="1440" alt="Ekran Resmi 2022-11-04 22 44 56" src="https://github.com/IZGI-A/KBB-intern-project/assets/126882912/f6218f4f-86c8-4283-8631-8da9e1716a0b">
 <img width="1440" alt="Ekran Resmi 2022-11-04 22 48 03" src="https://github.com/IZGI-A/KBB-intern-project/assets/126882912/bbfc4201-101c-4858-8fc6-f5bbc7fd2564">
 <img width="1440" alt="Ekran Resmi 2022-11-04 22 55 49" src="https://github.com/IZGI-A/KBB-intern-project/assets/126882912/cb76d12c-44c6-40e9-9855-fe27f0ff5351">
 <img width="1440" alt="Ekran Resmi 2022-11-04 22 51 06" src="https://github.com/IZGI-A/KBB-intern-project/assets/126882912/94ab59b8-6d8e-4784-988a-0d3e914877d8">
