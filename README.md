@@ -1,5 +1,30 @@
 # KBB-intern-project
+
+For the development of our project, we employed a comprehensive set of technologies and tools to ensure a robust and efficient solution. The key components that were utilized in the development process include:
+
+## Visual Studio
+Our project development was facilitated by Microsoft's Visual Studio, an integrated development environment (IDE) that provided a comprehensive set of tools for efficient software creation and management. With Visual Studio, we could seamlessly manage our project files, write and debug code, and deploy our web application. Its intuitive interface and integration with various technologies greatly streamlined our development process.
+
+## ASP.NET
+We leveraged the power of ASP.NET, a versatile web framework, to construct the backend of our application. ASP.NET enabled us to build dynamic, data-driven web pages and efficiently handle HTTP requests and responses. By utilizing ASP.NET, we were able to design a robust backend architecture that met our project requirements.
+
+## MVC Architecture
+Our project followed the Model-View-Controller (MVC) architectural pattern, which enhanced our development approach by separating concerns into distinct components. The Model encapsulated our data and business logic, ensuring efficient data handling and processing. The View, developed using HTML and CSS, presented a visually engaging user interface. The Controller, implemented using JavaScript, managed user interactions and directed data flow between the Model and View. This architecture promoted modularity, reusability, and testability in our codebase.
+
+## JavaScript
+JavaScript played a pivotal role in creating an interactive and dynamic user experience. We utilized JavaScript to implement the Controller component of the MVC architecture. 
+
+## HTML and CSS
+The View component of our MVC architecture was crafted using HTML and CSS. HTML provided the structural foundation of our web pages, defining the layout and content hierarchy. CSS, on the other hand, enabled us to design visually appealing and consistent user interfaces. By applying styles, layouts, and responsive design principles, we ensured a seamless user experience across various devices and screen sizes.
+
+## MySQL
+For efficient data management, we employed the MySQL relational database management system. MySQL facilitated the creation of a well-structured database schema, allowing us to define tables, relationships, and constraints. Through MySQL, we managed data storage, retrieval, and manipulation, ensuring the persistence of critical information required by our application.
+
+## Bitbucket
+Our development process was further streamlined by Bitbucket, a Git repository management platform. With Bitbucket, we maintained version control over our source code, enabling collaborative development among team members. We utilized features such as branching and merging to facilitate parallel development efforts. Code reviews and pull requests on Bitbucket contributed to code quality and knowledge sharing among the team.
+
 You can reach the videos of the website via https://drive.google.com/drive/folders/1uXJKbR8iDzFjsrRQkmbDNfCr1dQ712wq?usp=sharing 
+
 <img width="1440" alt="Ekran Resmi 2022-11-04 22 44 56" src="https://github.com/IZGI-A/KBB-intern-project/assets/126882912/f6218f4f-86c8-4283-8631-8da9e1716a0b">
 <img width="1440" alt="Ekran Resmi 2022-11-04 23 02 12" src="https://github.com/IZGI-A/KBB-intern-project/assets/126882912/9a27bd1e-50f4-4c18-afbf-d5781e67e1f1">
 <img width="1440" alt="Ekran Resmi 2022-11-04 23 02 25" src="https://github.com/IZGI-A/KBB-intern-project/assets/126882912/9236b860-2ae8-4329-ad04-e514ba1f6707">
